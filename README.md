@@ -227,7 +227,7 @@ El ensamble de conmutador y escobillas conecta eléctricamente la espira al circ
 
 # Video
 
-
+https://youtu.be/DT2QBMyULWU
 
 # Conclusiones 
 
